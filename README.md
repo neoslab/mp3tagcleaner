@@ -86,7 +86,7 @@ README.md               # Project documentation
 
 * * *
 
-#### Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -100,12 +100,12 @@ Ensure your code follows PEP 8 style guidelines and includes appropriate tests.
 
 * * *
 
-#### License
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 * * *
 
-#### Contact
+## Contact
 
 For issues, suggestions, or questions, please open an issue on GitHub or contact the maintainer at [GitHub Issues](https://github.com/neoslab/mp3tagcleaner/issues).
